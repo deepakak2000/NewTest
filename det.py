@@ -1,9 +1,9 @@
 import json
 user_dict = {}
 i=0
-num_entries = int(input("Enter the number of entries you want to add: "))
+num_entries = int(input("Enter the number of entries you want to add:fjbjkfjkflkflk "))
 for i in range(num_entries):
-    key = input("Enter Roll number: ")
+    key = input("Enter Roll number:dcdsvsdv ")
     value = input("Enter Name: ")
     user_dict[key] = value
     #Add to the file
